@@ -14,7 +14,7 @@ Este projeto consiste no desenvolvimento de um sistema de diagnóstico para um c
 
 * Ana Clara
 
-#⚙️ Funcionalidades
+# :hammer: Funcionalidades
 
 O sistema foi projetado para detectar e analisar os seguintes problemas mecânicos e elétricos:
 
