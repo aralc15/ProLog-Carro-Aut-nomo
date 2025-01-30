@@ -6,11 +6,11 @@ Este projeto consiste no desenvolvimento de um sistema de diagnóstico para um c
 
 👥 Equipe de Desenvolvimento
 
-*Arthur da Silva Sá
+* Arthur da Silva Sá
 
-*Bruno Ferres
+* Bruno Ferres
 
-*Arthur Reis
+* Arthur Reis
 
 * Ana Clara
 
